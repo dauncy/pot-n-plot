@@ -1,24 +1,9 @@
-# README
+# Pot-n-Plot #
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  Pot-n-plot is a pure Ruby on Rails web app for virtual gardening. Data for over 400 species of plants was collected from the  trefle.io API and stored in the database using postgresql.
 
-Things you may want to cover:
+**What can a user do?**
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
