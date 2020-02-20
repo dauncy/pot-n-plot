@@ -1,6 +1,8 @@
 **Pot-n-Plot**
 
-  Pot-n-plot is a pure Ruby on Rails web app for virtual gardening. Data for over 400 species of plants was collected from the  trefle.io API and stored in the database using postgresql.
+Pot-n-plot is a pure Ruby on Rails web app for virtual gardening. Data for over 400 species of plants was collected from the  trefle.io API and stored in the database using postgresql.
+
+Checkout the live site at [pot-n-plot](https://pot-n-plot.herokuapp.com/)
 
 What can a user do?
 - Login or signup and visit his/her profilfe page, add/remove friends, & see his/her gardens. 
